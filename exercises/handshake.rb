@@ -1,7 +1,5 @@
 class Handshake
   def self.calculate(number)
-    #your code here \/ \/ \/
-
-    #your code here /\ /\ /\
+    result = (number * (number - 1 )) /2
   end
 end
